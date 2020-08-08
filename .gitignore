@@ -1,0 +1,9 @@
+.DS_Store
+.classpath
+.project
+*.png
+*.pdf
+*.class
+*.txt
+bin
+fangweij
